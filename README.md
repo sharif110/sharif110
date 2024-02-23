@@ -4,11 +4,7 @@
 </p>
 
 
-<br>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0e75b6&style=plastic" alt="7oSkaaa" /> 
-</p>
 
 
 ## :sassy_man:  About me
@@ -19,12 +15,7 @@
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is for contact [LinkedIn Account](https://www.linkedin.com/in/sharif-ali-ba3971200/).
 - :nerd_face: Always `learning new things`
 
-<br>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
-
-<br>
 <br>
 
 
