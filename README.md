@@ -8,7 +8,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Student` at FAST-NU University
+- :school: BS Computer Science FAST-NU University
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codeforces`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
