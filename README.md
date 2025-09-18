@@ -8,8 +8,10 @@
 
 
 ## :sassy_man:  About me
+- :office: Business Owner
+- :school: MS Data Science, University of East Anglia 
 - :school: BS Computer Science FAST-NU University
-- :technologist: I love using Software as a solution for every `Problem`
+- :technologist: I love using Software as a solution for every Problem.
 
 
 
